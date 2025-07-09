@@ -5,3 +5,4 @@ This repository contains Verilog practice modules
 - AND Gate
 - OR Gate
 - NOT Gate
+- NAND Gate
