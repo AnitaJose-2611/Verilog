@@ -4,3 +4,4 @@ module NORGate(
 );
   assign out = ~(a | b);
 endmodule
+
