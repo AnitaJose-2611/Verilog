@@ -7,3 +7,4 @@ This repository contains Verilog practice modules
 - NOT Gate
 - NAND Gate
 - NOR Gate
+- EX-OR Gate
