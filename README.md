@@ -10,3 +10,4 @@ This repository contains Verilog practice modules
 - EX-OR Gate
 - EX-NOR Gate
 - Half Adder
+- Full Adder
