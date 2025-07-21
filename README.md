@@ -11,3 +11,4 @@ This repository contains Verilog practice modules
 - EX-NOR Gate
 - Half Adder
 - Full Adder
+- Half Subtractor
