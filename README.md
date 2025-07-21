@@ -12,3 +12,4 @@ This repository contains Verilog practice modules
 - Half Adder
 - Full Adder
 - Half Subtractor
+- Full Subtractor
