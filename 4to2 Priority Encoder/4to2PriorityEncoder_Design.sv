@@ -1,0 +1,17 @@
+module PriorityEncoder4to2(
+  input [3:0] d,
+  output [1:0] y
+);
+  always@(*) begin
+    if (d[0])
+      y = 2'b00;
+    else if (d[1])
+      y = 2'b01;
+    else if (d[2])
+      y = 2'b10;
+    else if (d[3])
+      y = 2'b11;
+    else
+      y = 2'b00;
+  end
+endmodule
