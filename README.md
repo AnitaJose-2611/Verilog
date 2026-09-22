@@ -14,3 +14,5 @@ This repository contains Verilog practice modules
 - Half Subtractor
 - Full Subtractor
 - 2:1 MUX
+- 4:1 MUX
+
