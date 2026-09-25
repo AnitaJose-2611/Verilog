@@ -30,10 +30,15 @@ module mealy_101(
       S1: begin
         if(serial_in)
           next_state = S1;
+        else
+          next_state = S2;
       end
       S2: begin
         if(serial_in)
           next_state = S0;
+          result = 1'b1;
+        else
+          next_state = S1;
       end
     endcase
   end
